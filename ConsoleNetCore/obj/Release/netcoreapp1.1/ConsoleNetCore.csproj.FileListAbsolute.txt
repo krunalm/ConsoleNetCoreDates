@@ -1,0 +1,9 @@
+D:\demo\typescript-redux\ConsoleNetCore\ConsoleNetCore\bin\Release\netcoreapp1.1\ConsoleNetCore.deps.json
+D:\demo\typescript-redux\ConsoleNetCore\ConsoleNetCore\bin\Release\netcoreapp1.1\ConsoleNetCore.runtimeconfig.json
+D:\demo\typescript-redux\ConsoleNetCore\ConsoleNetCore\bin\Release\netcoreapp1.1\ConsoleNetCore.runtimeconfig.dev.json
+D:\demo\typescript-redux\ConsoleNetCore\ConsoleNetCore\bin\Release\netcoreapp1.1\ConsoleNetCore.dll
+D:\demo\typescript-redux\ConsoleNetCore\ConsoleNetCore\bin\Release\netcoreapp1.1\ConsoleNetCore.pdb
+D:\demo\typescript-redux\ConsoleNetCore\ConsoleNetCore\obj\Release\netcoreapp1.1\ConsoleNetCore.csprojResolveAssemblyReference.cache
+D:\demo\typescript-redux\ConsoleNetCore\ConsoleNetCore\obj\Release\netcoreapp1.1\ConsoleNetCore.AssemblyInfo.cs
+D:\demo\typescript-redux\ConsoleNetCore\ConsoleNetCore\obj\Release\netcoreapp1.1\ConsoleNetCore.dll
+D:\demo\typescript-redux\ConsoleNetCore\ConsoleNetCore\obj\Release\netcoreapp1.1\ConsoleNetCore.pdb
